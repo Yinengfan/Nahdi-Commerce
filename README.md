@@ -6,8 +6,8 @@ https://experienceleague.adobe.com/developer/commerce/storefront/
 
 ## Environments - Doc-based
 
-- Preview: https://main--citisignal-doc--adobedevxsc.aem.page/
-- Live: https://main--citisignal-doc--adobedevxsc.aem.live/
+- Preview: https://main--nahdi--yinengfan.aem.page/
+- Live: https://main--nahdi--yinengfan.aem.live/
 
 ## Environments - AEM UE + Crosswalk
 
